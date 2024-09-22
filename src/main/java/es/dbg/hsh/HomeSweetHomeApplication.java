@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HomeSweetHomeApplication {
 
 	public static void main(String[] args) {
-		System.out.println("inicio de la app");
+		
 		SpringApplication.run(HomeSweetHomeApplication.class, args);
 	}
 
