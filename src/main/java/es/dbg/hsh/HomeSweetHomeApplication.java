@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HomeSweetHomeApplication {
 
 	public static void main(String[] args) {
-		System.out.println("esto sería un cdmbio");
+		System.out.println("esto sería otro cambio");
 		SpringApplication.run(HomeSweetHomeApplication.class, args);
 	}
 
